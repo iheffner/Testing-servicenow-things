@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Let's go again" max_length="40" name="x_197831_testing_g_let_s_go_again" type="collection">
+        <element default="Yes" display="true" label="Column" max_length="200" name="column" type="string"/>
+    </element>
+</database>
